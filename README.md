@@ -2,7 +2,7 @@
 
 <br/>Olá :smile:, meu nome é <h2>Ricardo Nagatomy</h2>
 <br/>sou formado na área de t.i. em segurança da informação
-<br/>Sou apaixonado por analisar antes de fazer, ver meus projetos sendo construídos com toda a minha criatividade e peculiaridade
+<br/>Sou apaixonado por analisar antes de fazer e ver meus projetos sendo construídos com toda a minha criatividade e peculiaridade
 <br/>Busco pelo mercado de desenvolvimento com ênfase em front-end(HTML5, CSS3 e Javascript).
 <br/>Gosto de:
 <br/>1 - jogar vídeogame:video_game:
