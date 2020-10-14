@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <br/>Olá :smile:, meu nome é <h2>Ricardo Nagatomy</h2>
-<br/>Sou formado na área de t.i. em segurança da informação
+<br/>Sou formado na área de t.i. em segurança da informação, estou em transição de carreira, enquanto nenhum roteador da problemas nas tabelas de roteamento eu estou estudando desenvolvimento WEB. 
+<br/>Participando e desenvolvendo projetos em Front-end
 <br/>Sou apaixonado por analisar antes de fazer e ver meus projetos sendo construídos com toda a minha criatividade e peculiaridade
 <br/>Busco pelo mercado de desenvolvimento com ênfase em front-end(HTML5, CSS3 e Javascript).
 <br/>Gosto de:
