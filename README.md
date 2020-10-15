@@ -11,8 +11,9 @@
 <br/><p align="center">3 - conhecer estilo de músicas peculiares:musical_score:</p>
 <br/><p align="center">4 - observar:eyes:</p>
 <br/>
-<br/>meu contatos: 
+<br/>meu contatos: <br>
 <a href="https://www.linkedin.com/in/ricardo-nagatomy-56553254"><img src="https://img.shields.io/badge/-RicardoNaga-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://app.rocketseat.com.br/me/ricardo-nagatomy-08130"><img src="https://img.shields.io/badge/-Rocketseat-000?style=flat-square&logo=&logoColor=white"></a>
 
 <br/>
 <br/>tenha um bom dia meu caro colega :smile:
