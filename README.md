@@ -5,9 +5,9 @@
 Gosto de:</div>
 
 <div align="center">
-1. jogar vídeogame:video_game:
-2. praticar artes marciais, em especial o jiu-jitsu:facepunch:
-3. conhecer estilo de músicas peculiares:musical_score:
+1. jogar vídeogame:video_game:\
+2. praticar artes marciais, em especial o jiu-jitsu:facepunch:\
+3. conhecer estilo de músicas peculiares:musical_score:\
 4. observar:eyes:
 </div>
 
