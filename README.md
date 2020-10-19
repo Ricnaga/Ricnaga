@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Olá :smile:, meu nome é Ricardo Nagatomy
+## <div align="center">Olá :smile:, meu nome é Ricardo Nagatomy</div>
 <div align="justify">Sou formado na área de t.i. em segurança da informação, estou em transição de carreira, enquanto nenhum roteador da problemas nas tabelas de roteamento eu estou estudando desenvolvimento WEB, participando e desenvolvendo projetos em Front-end. Sou apaixonado por analisar antes de fazer e ver meus projetos sendo construídos com toda a minha criatividade e peculiaridade. Busco pelo mercado de desenvolvimento com ênfase em front-end.
 Gosto de:</div>
 
