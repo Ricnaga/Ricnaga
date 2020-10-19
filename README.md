@@ -17,3 +17,5 @@
 
 <br/>
 <br/>tenha um bom dia meu caro colega :smile:
+
+![GitHub](https://img.shields.io/github/license/Ricnaga/Ricnaga)
