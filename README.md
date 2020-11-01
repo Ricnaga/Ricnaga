@@ -6,7 +6,7 @@ Gosto de:</div>
 
 <div align="center">1. jogar vídeogame :video_game:</div>
 <div align="center">2. praticar artes marciais, em especial o jiu-jitsu :facepunch:</div>
-<div align="center">3. Estudar HTML5 - CSS - Javascript - SQL</div>
+<div align="center">3. Estudar HTML5 | CSS3 | Javascript | SQL | ReactJS | React Native</div>
 <div align="center">4. observar :eyes:</div>
 <div align="center">5. conhecer estilo de músicas peculiares :musical_score:</div>
 
