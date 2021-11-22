@@ -3,7 +3,7 @@
 <!-- Description -->
 ## <div align="center">Olá 😀, meu nome é **Ricardo Nagatomy**</div>
 <div align="justify">
-Sou formado na área de t.i. em segurança da informação, ja atuei como suporte técnico mas hoje me encontrei como desenvolvedor frontend JR. Constante procuro melhorar meus conhecimentos e experiências em desenvolvimento WEB. Sou apaixonado por analisar antes de fazer e ver meus projetos sendo construídos com toda a minha criatividade e peculiaridade. Busco pelo mercado de desenvolvimento com ênfase em front-end ou atuando como backend em NodeJS.
+Sou formado na área de t.i. em segurança da informação, ja atuei como suporte técnico mas hoje me encontrei como desenvolvedor frontend. Constantemente procuro melhorar meus conhecimentos e experiências em desenvolvimento WEB. Sou apaixonado por analisar e ver meus projetos sendo construídos com toda a minha criatividade e peculiaridade. Busco pelo mercado de desenvolvimento com ênfase em front-end ou atuando como backend em NodeJS.
 Gosto de:
 </div>
 <br>
