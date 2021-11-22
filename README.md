@@ -20,15 +20,7 @@ meus contatos:
 <a href="https://www.linkedin.com/in/ricardo-nagatomy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://app.rocketseat.com.br/me/ricardo-nagatomy" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-000?style=for-the-badge&logo=rocketseat&logoColor=black"></a>
 
-<!-- GitHub Stats -->
-![Ricardo Naga](https://github-readme-stats.vercel.app/api?username=Ricnaga&theme=chartreuse-dark&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricnaga&theme=dark&layout=compact&card_width=445)
-
-
 <!-- Skills -->
-<br>
-
 **Agora um pouco do que utilizo no meu cotidiano**
 
 **Front-end**: 
@@ -68,5 +60,11 @@ meus contatos:
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+ 
+ 
+<!-- GitHub Stats -->
+![Ricardo Naga](https://github-readme-stats.vercel.app/api?username=Ricnaga&theme=chartreuse-dark&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricnaga&theme=dark&layout=compact&card_width=445)
 
  Tenha um bom dia meu caro colega 😊 </div>
