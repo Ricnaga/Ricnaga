@@ -19,19 +19,6 @@ Sou movido pela curiosidade e criatividade. Gosto de ver projetos ganharem vida 
 
 ---
 
-### 🌟 Projetos em Destaque
-
-| Projeto | Descrição | Tech |
-|---------|-----------|------|
-| [real-time-kanban](https://github.com/Ricnaga/real-time-kanban) | Board Kanban em tempo real | TypeScript |
-| [kolab-crud](https://github.com/Ricnaga/kolab-crud) | CRUD completo com testes | React, Chakra UI, Vitest |
-| [mfe-react-sample](https://github.com/Ricnaga/mfe-react-sample) | Micro-frontends com React | TypeScript, Webpack, Vite |
-| [pokeapi](https://github.com/Ricnaga/pokeapi) | App de Pokémon com fetchers | Next.js, React Query |
-| [legrano-massas](https://github.com/Ricnaga/legrano-massas) | Site de massas (produção) | TypeScript, Netlify |
-| [bff-sample](https://github.com/Ricnaga/bff-sample) | Padrão BFF com GraphQL | TypeScript, GraphQL |
-
----
-
 ### 🛠️ Tecnologias
 
 #### **Frontend**
